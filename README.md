@@ -174,7 +174,7 @@ This proof of concept demonstrates the full deployment and security hardening of
 
 ## 📄 Documentation
 
-[View full proof of concept report (PDF)](./Marconi_Law_Firm_Proof_of_Concept_Technical_Solution.pdf)
+[View full proof of concept report (PDF)](./Proof_of_Concept.pdf)
 
 ---
 
