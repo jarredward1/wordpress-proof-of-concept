@@ -1,6 +1,6 @@
-# WordPress Proof of Concept Deployment (LAMP Stack / Docker / NginX)
+# WordPress Deployment: LAMP, Docker & NginX
 
-> A proof of concept deployment of a WordPress website for a fictional law firm client (Marconi Law Firm), built on a custom virtual network using a LAMP stack, Docker, and an NginX reverse proxy. Includes security hardening and audit documentation.
+> A proof of concept WordPress deployment for a fictional law firm client, built on a custom virtual network using a LAMP stack, Docker, and an NginX reverse proxy, with defense-in-depth security hardening and audit documentation.
 
 ---
 
